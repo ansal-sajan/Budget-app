@@ -22,7 +22,7 @@ default: &default
   pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
   username: ubuntu
   password: ansal
-  host: 3.82.155.83
+  host: 54.82.200.235
 
 development:
   <<: *default
