@@ -21,7 +21,7 @@ The Budget Planner App is going to be helpful to track your expenses and transac
 
 To get a local copy up and running follow these simple example steps.
 
-git clone https://github.com/Rustamxon7/Budget-app.git
+git clone https://github.com/ansal-sajan/budget-app.git
 
 cd Budget-Planner-App
 
